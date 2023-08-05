@@ -15,3 +15,9 @@ source activate alta2023_baseline
 git clone https://github.com/zhanhl316/ALTA2023_shared_task.git
 pip install -r requirements.txt
 ```
+
+
+### Step 2: Data Preparation
+Please follow the format of train/test .json file in the folder "data", and replace your own train/dev/test files.
+
+
