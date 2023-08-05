@@ -28,6 +28,6 @@ sh run_glue.sh
 ```
 ### Step 4: Test
 
-```shell
+```bib
 sh run_glue-test.sh
 ```
