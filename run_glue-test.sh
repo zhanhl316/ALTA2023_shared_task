@@ -3,6 +3,7 @@ export TASK_NAME=alta2023_baseline_roberta_large
 python examples/pytorch/text-classification/run_glue.py \
   --model_name_or_path ./tmp/$TASK_NAME \
   --train_file data/train.json \
+  --validation_file data/test_human.json \
   --test_file data/test_human.json \
   --do_predict \
   --max_seq_length 128 \
