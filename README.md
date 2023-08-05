@@ -8,8 +8,8 @@ The recent advancements in Large Language Models (LLMs) represent a paradigm shi
 
 ### Step 0: Requirements
 
-- Python3.8
-- Pytorch1.8.1
+- Python 3.8
+- Pytorch 1.8.1
 - CUDA 10.1
 
 
