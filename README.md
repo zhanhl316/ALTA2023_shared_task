@@ -21,3 +21,13 @@ pip install -r requirements.txt
 Please follow the format of train/test .json file in the folder "data", and replace your own train/dev/test files.
 
 
+### Step 3: Training
+
+```shell
+sh run_glue.sh
+```
+### Step 4: Test
+
+```shell
+sh run_glue-test.sh
+```
