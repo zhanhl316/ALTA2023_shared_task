@@ -10,10 +10,10 @@ There are several steps to do.
 ### Step 1: Installation
 ```
 conda create -n alta2023_baseline python=3.8
+source activate alta2023_baseline
+
+git clone https://github.com/zhanhl316/ALTA2023_shared_task.git
+
+pip install -r requirements.txt
+
 ```
-
-``source activate alta2023_baseline``
-
-``git clone https://github.com/zhanhl316/ALTA2023_shared_task.git``
-
-``pip install -r requirements.txt``
