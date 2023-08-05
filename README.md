@@ -7,9 +7,11 @@ The recent advancements in Large Language Models (LLMs) represent a paradigm shi
 # How to use this baseline?
 There are several steps to do.
 
-### Installation
+### Step 1: Installation
 ``conda create -n alta2023_baseline python=3.8``
 
 ``source activate alta2023_baseline``
 
 ``git clone https://github.com/zhanhl316/ALTA2023_shared_task.git``
+
+``pip install -r requirements.txt``
