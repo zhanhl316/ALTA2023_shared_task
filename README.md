@@ -8,6 +8,7 @@ The recent advancements in Large Language Models (LLMs) represent a paradigm shi
 There are several steps to do.
 
 ### Step 1: Installation
+Please follow the steps to initialize your enviroment.
 ```bash
 conda create -n alta2023_baseline python=3.8
 source activate alta2023_baseline
