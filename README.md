@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ### Step 2: Data and Pretrained Model Preparation
 (1) Data Preparation: Please follow the format of train/test .json file in the folder "data", and replace your own train/dev/test files.
 
-(2) Pretrained Model Preparation: Please download Reberta-large model files from Huggingface Repo, [Roberta-large](https://huggingface.co/roberta-large/tree/main), and put these files in the folder "pretrained_model/roberta-large".
+(2) **The baseline model is based on RoBERTa (large).** Pretrained Model Preparation: Please download Reberta-large model files from Huggingface Repo, [Roberta-large](https://huggingface.co/roberta-large/tree/main), and put these files in the folder "pretrained_model/roberta-large".
 
 
 ### Step 3: Training
