@@ -20,6 +20,7 @@ Please follow the steps to initialize your enviroment.
 conda create -n alta2023_baseline python=3.8
 source activate alta2023_baseline
 git clone https://github.com/zhanhl316/ALTA2023_shared_task.git
+cd ALTA2023_shared_task
 pip install -r requirements.txt
 ```
 
